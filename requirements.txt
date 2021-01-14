@@ -3,7 +3,7 @@ torch
 rasa[full]==2.1.2
 tensorflow-text
 fastapi>=0.62.0
-mongomock==3.21.0
+mongomock==3.22.1
 pytest==6.1.2
 pytest-html==3.0.0
 pytest-cov==2.10.1
